@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "iterator": "cpp",
+        "chrono": "cpp",
+        "functional": "cpp",
+        "__locale": "cpp",
+        "random": "cpp",
+        "__node_handle": "cpp",
+        "iostream": "cpp",
+        "cmath": "cpp"
+    }
+}
