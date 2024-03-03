@@ -4,6 +4,10 @@ Made in CPP
 
 Just for Learning
 
+Vids do it better justice
+
+![Raytracer w shadow 1](image.png)
+![Raytracer w shadow 2](image-1.png)
 
 Ref:
 
